@@ -8,3 +8,4 @@ CRAFT Paper
 CRNN Paper
 Example
 ![](image/img1.PNG)
+![](image/img2.png)
