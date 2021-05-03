@@ -7,3 +7,4 @@ I decided to beautify this project with some template
 CRAFT Paper
 CRNN Paper
 Example
+![](image/img1.PNG)
