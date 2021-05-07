@@ -7,5 +7,5 @@ I decided to beautify this project with some template </br>
 CRAFT Paper</br>
 CRNN Paper</br>
 Example</br>
-![](images/img1.PNG)
-![](images/img2.png)
+![](images/img11.png)
+![](images/img22.png)
