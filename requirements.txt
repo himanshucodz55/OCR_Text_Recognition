@@ -13,12 +13,6 @@ networkx==2.3
 numpy==1.16.1
 Pillow==6.1.0
 cython
-<<<<<<< HEAD
-https://download.pytorch.org/whl/cpu/torch-1.0.1.post2-cp36-cp36m-linux_x86_64.whl
-torchvision
-=======
-https://download.pytorch.org/whl/cpu/torch-1.0.1.post2-cp37-cp37m-linux_x86_64.whl
->>>>>>> f186427a36cf818daadc971971eb6c2784592308
 tqdm 
 Werkzeug==0.15.5
 gast==0.2.2
