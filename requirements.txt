@@ -13,7 +13,6 @@ networkx==2.3
 numpy==1.16.1
 Pillow==6.1.0
 cython
-
 torch==1.0.1
 torchvision==0.2.2
 tqdm 
