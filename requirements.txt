@@ -11,6 +11,7 @@ lmdb==0.97
 MarkupSafe
 networkx==2.3
 numpy==1.17.1
+javabridge
 Pillow==6.1.0
 PyWavelets==1.0.3
 scikit-image==0.15.0
