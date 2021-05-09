@@ -15,6 +15,4 @@ Pillow==6.1.0
 cython
 tqdm 
 Werkzeug==0.15.5
-h5py
-lmdb
-gast==0.2.2
+
