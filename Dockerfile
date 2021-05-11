@@ -1,5 +1,5 @@
-FROM python:3.7
-
+#FROM python:3.7
+FROM Ubuntu:20.04
 RUN pip install virtualenv
 ENV VIRTUAL_ENV=/venv
 RUN virtualenv venv -p python3
